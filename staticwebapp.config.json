@@ -47,7 +47,7 @@
       "allowedRoles": ["admin", "editor", "readonly", "authenticated", "anonymous"]
     },
     {
-      "route": "/api/*",
+      "route": "/api/Public*",
       "allowedRoles": ["admin", "editor", "readonly", "authenticated", "anonymous"]
     },
     {
