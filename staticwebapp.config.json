@@ -128,6 +128,7 @@
           "clientSecretSettingName": "AZURE_CLIENT_SECRET"
         }
       }
-    }
+    },
+    "rolesSource": "/api/GetSWARoles"
   }
 }
