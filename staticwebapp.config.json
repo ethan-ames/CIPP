@@ -118,17 +118,5 @@
   },
   "mimeTypes": {
     ".json": "text/json"
-  },
-  "auth": {
-    "identityProviders": {
-      "azureActiveDirectory": {
-        "registration": {
-          "openIdIssuer": "https://login.microsoftonline.com/154743d3-4858-4aed-b8fc-4a4eab4afbcc/v2.0",
-          "clientIdSettingName": "AZURE_CLIENT_ID",
-          "clientSecretSettingName": "AZURE_CLIENT_SECRET"
-        }
-      }
-    },
-    "rolesSource": "/api/GetSWARoles"
   }
 }
